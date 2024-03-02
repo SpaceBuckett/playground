@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951317712853",
+    "project_id": "playground-2417d",
+    "storage_bucket": "playground-2417d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951317712853:android:753824839cfa086887b75c",
+        "android_client_info": {
+          "package_name": "com.example.learning_ground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRveg2cuSjTNROVctXBpSQcx8XL2XUJls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
